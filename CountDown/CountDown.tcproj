@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Project>
+<ProjInfo>
+<EnterFile>CountDown.t</EnterFile>
+<Language>0</Language>
+<Version>6.1</Version>
+<ExeIco>F:\Program Files\Documents\Documents\CountDowner\Icon.ico</ExeIco>
+<Platform>pc</Platform>
+</ProjInfo>
+<DesignInfo>
+<LockedCtrl></LockedCtrl>
+</DesignInfo>
+<VersionInfo>
+<ProductName>Matrix Box Timer</ProductName>
+<FileDescription>Matrix Box 倒计时小工具</FileDescription>
+<FileVersion>0.2.0.0</FileVersion>
+<ProductVersion>0.2.0.0</ProductVersion>
+<InternalName>MBox Countdown</InternalName>
+<CompanyName>Matrix Box Studio</CompanyName>
+<LegalCopyright>(C)&lt;MBox Studio&gt;保留所有版权</LegalCopyright>
+</VersionInfo>
+</Project>
